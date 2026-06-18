@@ -187,7 +187,7 @@ export default function Home() {
                 <div className="w-3 h-3 rounded-full bg-red-400" />
                 <div className="w-3 h-3 rounded-full bg-yellow-400" />
                 <div className="w-3 h-3 rounded-full bg-green-400" />
-                <span className="ml-2 text-navy-400 text-xs">tekstilhub.uz/dashboard</span>
+                <span className="ml-2 text-navy-400 text-xs">Retake/dashboard</span>
               </div>
               {/* Mini stat cards */}
               <div className="grid grid-cols-2 gap-3 mb-4">
