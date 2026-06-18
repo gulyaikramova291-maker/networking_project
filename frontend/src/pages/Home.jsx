@@ -287,7 +287,7 @@ export default function Home() {
 							<Boxes className='w-5 h-5 text-white' />
 						</div>
 						<span className='font-display font-bold text-white text-xl'>
-							Retake<span className='text-gold-400'>.uz</span>
+							TekstilHub<span className='text-gold-400'>.uz</span>
 						</span>
 					</Link>
 					<div className='hidden md:flex items-center gap-7 text-sm font-medium text-navy-300'>
